@@ -1,0 +1,98 @@
+.mechdiv {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-left: 160px;
+    margin-top: -47px;
+}
+
+.textterdivel {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.textterdivel1 {
+    display: flex;
+    flex-direction:  row;
+    /* justify-content: ; */
+    gap: 100px;
+    margin-top: 14px;
+
+}
+
+
+.texterText {
+    width: 200px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.title_soan {
+    margin-top: 5px
+}
+
+.texterText_span {
+    margin-top: 30px;
+    max-width: 200px;
+
+}
+
+.btn_el {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 58px;
+    border: none;
+    transition: 0.4s;
+}
+
+.btn_el:hover {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 51px;
+    color: brown;
+    border-radius: 10px;
+    border: none;
+    transition: 0.4s;
+    box-shadow: -1px 3px 13px 0px;
+
+}
+
+.btn_el1:hover {
+    transition: 0.4s;
+    padding-left: 10px;
+    margin-left: 12px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px; 
+    border: none;
+    color: rgb(49, 49, 170);
+    box-shadow: -1px 3px 13px 0px;
+}
+.btn_el1 {
+    transition: 0.4s;
+    padding-left: 10px;
+    margin-left: 12px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px; 
+    border: none;
+    
+}
+.lorem_text{
+    width: 285px;
+}
+.btn_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 22px;
+}

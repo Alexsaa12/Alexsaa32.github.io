@@ -1,0 +1,36 @@
+.container{
+    /* width: 100%; */
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    min-height: 100px;
+ 
+}
+.homebg{  
+    width: 89%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 130px;
+    gap: 30px;
+}
+.hebg{
+   position: relative;
+    left: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+}
+
+.hading{
+    left: 129px;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    gap: 30px;
+}
+.ultrsa{
+    
+}

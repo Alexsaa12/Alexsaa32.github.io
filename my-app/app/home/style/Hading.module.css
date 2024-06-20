@@ -1,0 +1,61 @@
+ .alelementis {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+   margin-top: 30px;
+   width: 280px;
+ }
+
+ .elementis {
+   display: flex;
+ }
+
+ .cardis {
+
+   width: 279px;
+   height: 261px;
+   background-color: white;
+   border-radius: 10px;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   /* padding: 20px; */
+   /* text-align: center; */
+   padding-top: 7px;
+   padding-bottom: 60px;
+   padding-left: 43px;
+   padding-right: 45px;
+ }
+
+
+
+ .img {
+   position: relative;
+   width: 323px;
+   /* top: -17px; */
+   /* padding-bottom: 30px; */
+   border-radius: 10px;
+   bottom: 20px;
+   left: -17px;
+   right: 0px;
+ }
+
+ .elementis {
+   margin-left: 60px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   gap: 20px;
+   flex-wrap: wrap;
+ }
+
+ .textis {
+   max-width: 230px;
+
+ }
+
+ .span1 {
+   margin-top: 12px;
+   color: darkgray;
+   font-size: 13px;
+
+ }
